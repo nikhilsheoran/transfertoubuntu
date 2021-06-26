@@ -1,0 +1,2 @@
+Started render process: C:/Program Files/kdenlive/bin/melt.exe -progress C:/Users/Nikhil Sheoran/AppData/Local/Temp/kdenlive-AdjQOL.mlt out=236
+[mp4 @ 0000000002adac40] Using AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead. [mp4 @ 0000000002adac40] Using AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead. Current Frame: 25, percentage: 10Job aborted by user
